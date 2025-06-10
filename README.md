@@ -26,6 +26,8 @@
 
 Ищу возможность применять аналитический подход и навыки ML в реальных бизнес-задачах: от обработки сырых данных до внедрения предсказательных моделей. 
 
+## Связаться со мной
+Telegram @aarzhakova
 
 <!--
 **arzhakova/Arzhakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
